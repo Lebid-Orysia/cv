@@ -44,6 +44,12 @@ body {
   font-family: "Nunito Sans", sans-serif;
 }
 
+.main-info-icon,
+.projects-icon {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
 /* left side */
 .left-column {
   width: 30%;
@@ -120,4 +126,8 @@ body {
   width: 450px;
   height: 450px;
   object-fit: cover;
+}
+
+.sity {
+  margin-bottom: 30px;
 }
